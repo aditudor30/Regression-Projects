@@ -4,7 +4,7 @@ Welcome to my Machine Learning Projects Repository! This repository contains my 
   - [Overview](url)
   - [Projects](url)
   - [Project Structure](url)
-  - Conclusion
+  - [Conclusion](url)
 ## Overview
 This repository serves as a portofolio of machine learning projects on subjects including supervised learning, unsupervised learning, deep learning and natural language processing. Each project consist of:
   - A thourough notebook outlining the problem, how I approach it and the results.

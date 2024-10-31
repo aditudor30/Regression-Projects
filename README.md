@@ -18,7 +18,11 @@ This repository serves as a portofolio of machine learning projects on subjects 
      - **Techniques**: Linear Regression, One-Hot Encoding, Residual Graphing.
      - **Libraries**: `pandas`, `matplotlib`, `sklearn`, `seaborn`.
        
-2. Coming soon...
+2. Logistic Regression on Diagnosing Breast Cancer
+     - **Description**: A simple regression model to predict if cells are benign or malignant based on certain scientific data.
+     - **Techniques**: Logistic Regression, Handling Missing and Redundant Data, Encoding Categorical Data.
+     - **Libraries**: `pandas`, `sklearn`, `seaborn`.
+   
 ## Project Structure
 Each project typically follows this structure:
 

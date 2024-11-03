@@ -22,6 +22,10 @@ This repository serves as a portofolio of machine learning projects on subjects 
      - **Description**: A simple regression model to predict if cells are benign or malignant based on certain scientific data.
      - **Techniques**: Logistic Regression, Handling Missing and Redundant Data, Encoding Categorical Data.
      - **Libraries**: `pandas`, `sklearn`, `seaborn`.
+3. K-Means Clustering on FIFA 22 Men's Data Set
+     - **Description**: An implementation from scratch of the K-Means algorithm to see patterns between certain stats of footballers such as age, rating, potential, wage.
+     - **Techniques**: K-Means Clustering, Data Normalization with Min-Max Scaling, Manual Algorithm Implementation, PCA for Diamensionality Reduction and Visualization.
+     - **Libraries**: `pandas`, `sklearn`, `matplotlib.pyplot`, `numpy`, `IPython`.
    
 ## Project Structure
 Each project typically follows this structure:

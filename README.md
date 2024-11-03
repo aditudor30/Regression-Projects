@@ -1,10 +1,10 @@
 # Machine-Learning-Projects
 Welcome to my Machine Learning Projects Repository! This repository contains my machine learning projects in which i used different algorithms, techniques and demonstrated real-world applications. Even though this repository is work in progress, each of my projects are organized in its own folder with the associated code, data and documentation.
 ## Table of Contents
-  - [Overview](url)
-  - [Projects](url)
-  - [Project Structure](url)
-  - [Conclusion](url)
+  - [Overview](https://github.com/aditudor30/Machine-Learning-Projects/edit/main/README.md#overview)
+  - [Projects](https://github.com/aditudor30/Machine-Learning-Projects/edit/main/README.md#projects)
+  - [Project Structure](https://github.com/aditudor30/Machine-Learning-Projects/edit/main/README.md#project-structure)
+  - [Conclusion](https://github.com/aditudor30/Machine-Learning-Projects/edit/main/README.md#conclusion)
 ## Overview
 This repository serves as a portofolio of machine learning projects on subjects including supervised learning, unsupervised learning, deep learning and natural language processing. Each project consist of:
   - A thourough notebook outlining the problem, how I approach it and the results.
